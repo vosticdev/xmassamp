@@ -8,7 +8,7 @@
 #Add this in your server database
 ```sql
 CREATE TABLE `winter_settings` (
-  `username` varchar(24) NOT NULL DEFAULT 'Maryland',
+  `username` varchar(24) NOT NULL DEFAULT 'ServerName',
   `map` tinyint(4) NOT NULL DEFAULT 0,
   `breath` tinyint(4) NOT NULL DEFAULT 0,
   `fallsnow` tinyint(4) NOT NULL DEFAULT 0
@@ -18,6 +18,6 @@ CREATE TABLE `winter_settings` (
 
 
 ---
-Include it in main mode, change handler for query and enjoy.
+Include it in main mode, change handler for query, recompile and enjoy.
 
 #Enjoy <3
