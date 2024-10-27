@@ -2,8 +2,8 @@
  Simple module for xmas made in pawn lang!
 
 #Dependencies
-- Ysi includes 5x
-- MySQL R41-4
+- Ysi includes 5x ( https://github.com/pawn-lang/YSI-Includes ) 
+- MySQL R41-4 ( https://github.com/pBlueG/SA-MP-MySQL )
 
 #Add this in your server database
 ```sql
