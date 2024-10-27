@@ -4,6 +4,7 @@
 #Dependencies
 - Ysi includes 5x ( https://github.com/pawn-lang/YSI-Includes ) 
 - MySQL R41-4 ( https://github.com/pBlueG/SA-MP-MySQL )
+- ColAndreas ( https://github.com/Pottus/ColAndreas )
 
 #Add this in your server database
 ```sql
